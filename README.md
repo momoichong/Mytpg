@@ -1,2 +1,0 @@
-# Mytpg
-Java Exercise
